@@ -1,0 +1,13 @@
+meteor-base
+session
+mongo
+mobile-experience
+standard-minifiers
+insecure
+less
+accounts-password
+jquery
+tracker
+check
+urigo:angular2-meteor
+autopublish
